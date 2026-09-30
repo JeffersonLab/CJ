@@ -3,7 +3,7 @@ SetIndex: 12720
 Authors: Accardi A, Cerutti M, Keppel C E, Li S, Owens J F, Park S, Risse P
 Reference: arXiv:2605.31424 - e-mail accardi@jlab.org
 Format: lhagrid1
-DataVersion:  2
+DataVersion:  3
 NumMembers:  65
 Particle:       2212
 Flavors: [-5, -4, -3, -2, -1, 1, 2, 3, 4, 5, 21]

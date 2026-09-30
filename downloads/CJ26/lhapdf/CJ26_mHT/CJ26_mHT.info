@@ -1,9 +1,9 @@
 SetDesc: 'CJ26 series global PDFs with multiplicative, isospin-dependent HT corrections and including all 6GeV and the latest 12GeV JLab DIS data. The 62 error grids are calculated with Delta\chi=1.645; if experimental errors were Gaussian and all experiments compatible, this would correspond to a 90% confidence level. Errors on observables can be calculated using Eqs.(6)-(7) with T=1 from Owens et al., PRD87(2013)094012 [arXiv:1212.1702].'
 SetIndex: 12700
-Authors: : Accardi A, Cerutti M, Keppel C E, Li S, Owens J F, Park S, Risse P
+Authors: Accardi A, Cerutti M, Keppel C E, Li S, Owens J F, Park S, Risse P
 Reference: arXiv:2605.31424 - e-mail accardi@jlab.org
 Format: lhagrid1
-DataVersion:  2
+DataVersion:  3
 NumMembers:  63
 Particle:       2212
 Flavors: [-5, -4, -3, -2, -1, 1, 2, 3, 4, 5, 21]
