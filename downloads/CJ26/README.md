@@ -20,6 +20,9 @@ Structure function grids are available in LHAPDF format for proton, neutron, and
 | 12724  | CJ26_aHT-FnNC  | 
 | 12727  | CJ26_aHT-FdNC  | 
 
+## Parameter set:
+Parameter sets associated with the PDF/SF grids are available from par_files.
+
 ## Citation
 CJ26 Global QCD Analysis with Large-x Jefferson Lab 6 and 12 GeV Data  
 A. Accardi, M. Cerutti, C. E. Keppel, S. Li, J.F. Owens, S. Park and P. Risse  
