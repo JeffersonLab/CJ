@@ -3,7 +3,7 @@ SetIndex: 12721
 Authors: A. Accardi, M. Cerutti, C.E. Keppel, S. Li, J.F. Owens, S. Park, P. Risse
 Reference: arXiv:2605.31424
 Format: lhagrid1
-DataVersion:  1
+DataVersion:  2
 NumMembers:  65
 Particle:       2212
 Flavors: [ 901, 902, 903, 904, 905, 906, 907, 908, 909]
